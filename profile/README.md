@@ -8,7 +8,7 @@
 
 Your identity, your trust network, your wallet — one ecosystem.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-a78bfa.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL-3.0-only](https://img.shields.io/badge/License-GPL--3.0--only-a78bfa.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Extension-4ade80.svg)](https://chromewebstore.google.com/detail/nostr-wot-extension/gfmefgdkmjpjinecjchlangpamhclhdo)
 [![npm](https://img.shields.io/npm/v/nostr-wot-sdk?color=facc15&label=SDK)](https://www.npmjs.com/package/nostr-wot-sdk)
 [![Website](https://img.shields.io/badge/Website-nostr--wot.com-8b5cf6.svg)](https://nostr-wot.com)
@@ -173,7 +173,7 @@ GET  /stats
 2. Set up your account — create keys, import nsec, or connect via NIP-46
 3. Browse Nostr — your identity and trust network follow you everywhere
 
-Everything is open source under the [MIT License](https://opensource.org/licenses/MIT). Run your own oracle, fork the extension, build trust infrastructure for your community.
+Current project-owned code and documentation are open source under [GNU GPL version 3 only](https://www.gnu.org/licenses/gpl-3.0.html) (`GPL-3.0-only`). Third-party components retain their own licenses, and earlier releases retain their original licenses. Run your own oracle, fork the extension, build trust infrastructure for your community.
 
 ---
 
